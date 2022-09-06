@@ -2,8 +2,9 @@
 sch: https://www.google.com/search?q=wayland+multiple+instances https://www.google.com/search?q=wayland+multiple+instances+tty
 
 # Solution: multiseat
-## with 2 GPUs
+## loginctl
 https://github.com/swaywm/sway/issues/3569
+- works with 2 GPUs
 
 
 # discussion:
